@@ -20,4 +20,4 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
 
-A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência.
+The first rule of any technology used in business is that automation applied to an efficient operation will increase efficiency.The second is that automation applied to an inefficient operation will increase inefficiency.
